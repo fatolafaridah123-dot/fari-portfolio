@@ -5,6 +5,7 @@ it is created to showcase my projects, skills, and my journey in web development
 
 ## Built with
 -HTML
+
 -CSS
 
 ## Features
@@ -28,5 +29,4 @@ it is created to showcase my projects, skills, and my journey in web development
 
 
 Feel free to explore the respository!
--
--
+
