@@ -13,13 +13,13 @@ it is created to showcase my projects, skills, and my journey in web development
 -Responsive layout
 -Easy navigation
 
-## What i'm learning
+## What I'm learning
 - Writing semantic Html
 - Styling with CSS
 - Building layouts &
 - Improving design skills 
 
-## Future improvements
+## Future Improvements
 - Add JavaScript for interactivity
 - Improve responsiveness
 - Add more projects
