@@ -1,2 +1,32 @@
-# fari-portfolio
-hvhjfuh,gj hnhbxgdfb gkj,mg nbngmhmrdyuhlkbnvhjgcft6rt7yoikljnmbkhf;oyik;j,.nmjhoylkj.,mjkliopiuoyitfrvgbnmkliouytfvhbkjnd5srxygchvjbkjluo978yyjhbgkjuyojgvhgt5thjjyukmlk;pii908y76
+# Fari Portfolio
+
+This is my personal portfolio website built with **HTML and CSS**.
+it is created to showcase my projects, skills, and my journey in web development.
+
+## Built with
+-HTML
+-CSS
+
+## Features
+-Simple and clean designs
+-Responsive layout
+-Easy navigation
+
+## What i'm learning
+- Writing semantic Html
+- Styling with CSS
+- Building layouts and
+- improving design skills 
+
+## Future improvements
+- Add JavaScript for interactivity
+- Improve responsiveness
+- Add more projects
+
+## Author 
+**Faridah**
+
+
+Feel free to explore the respository!
+-
+-
