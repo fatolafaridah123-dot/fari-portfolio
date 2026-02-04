@@ -15,8 +15,8 @@ it is created to showcase my projects, skills, and my journey in web development
 ## What i'm learning
 - Writing semantic Html
 - Styling with CSS
-- Building layouts and
-- improving design skills 
+- Building layouts &
+- Improving design skills 
 
 ## Future improvements
 - Add JavaScript for interactivity
